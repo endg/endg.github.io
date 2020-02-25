@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debian on 小登笔记</title>
+    <link>http://www.964813.xyz/zh-cn/tags/debian/</link>
+    <description>Recent content in debian on 小登笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 06 Feb 2020 13:16:48 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.964813.xyz/zh-cn/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>安装完 Debian 10 后要做的事</title>
+      <link>http://www.964813.xyz/zh-cn/post/debian_10after/</link>
+      <pubDate>Thu, 06 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/debian_10after/</guid>
+      <description>Debian 10，代号「Buster」，包含了很多特色功能。如果你最近尝试在你的电脑上安装了 Debian 10，安装之后不知道下一步怎么做，本教程可以做为一个参考</description>
+    </item>
+    
+  </channel>
+</rss>

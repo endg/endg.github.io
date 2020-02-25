@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小登笔记</title>
+    <link>http://www.964813.xyz/zh-cn/</link>
+    <description>Recent content on 小登笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 23 Feb 2020 21:38:52 +0800</lastBuildDate>
+    
+        <atom:link href="http://www.964813.xyz/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于jane主题</title>
+      <link>http://www.964813.xyz/zh-cn/post/about_jane/</link>
+      <pubDate>Wed, 19 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/about_jane/</guid>
+      
+        <description>&lt;h2 id=&#34;修改jane事项&#34;&gt;修改jane事项&lt;/h2&gt;
+&lt;p&gt;有关jane主题的一些使用事项：&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.964813.xyz/post/jane-theme-preview/&#34;&gt;Jane Theme Preview&lt;/a&gt;这个文档怎么总在第一个？&lt;/li&gt;
+&lt;li&gt;SCSS文件怎么改？因为想要修改CSS样式&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;如何置顶文章？在文章头部的配置中加上一条： &lt;code&gt;weight: 1&lt;/code&gt; ，就可以置顶了。&lt;/del&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hugo-todo&#34;&gt;hugo todo&lt;/h2&gt;
+&lt;p&gt;hugo网站需要做的事情&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;slides在线的幻灯片是如何制作的？这个功能将来应该会用到&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;图片GALERY怎么样形式的添加上去&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;google、baidu 搜索不到 github page？&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;hugo webhook 怎么实现 ？&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;hugo toc 怎么实现 ？&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;每篇文章的后面加入更新日期和相关文章&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;964813.XYZ在手机端和电脑端的区别 ？&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;HUGO md文件的创建日期和更新日期，及作者，添加到每篇文章去&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;首页上如何显示最近更新的五篇文章&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;HUGO SEO&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;如何优化各文件大小？怎么看出浏览器中文件的大小？&lt;/li&gt;
+&lt;li&gt;国内 CDN 加载静态文件(国内)（版权 隐私）&lt;/li&gt;
+&lt;li&gt;2.师夷长技&lt;/li&gt;
+&lt;li&gt;3.健康生活&lt;/li&gt;
+&lt;li&gt;4.旅行的意义&lt;/li&gt;
+&lt;li&gt;todo：will&lt;/li&gt;
+&lt;li&gt;网站备份策略 个人文件备份策略&lt;/li&gt;
+&lt;li&gt;友情链接怎么加，是否应该加，加在哪里，主页上还是友情链接页面上&lt;/li&gt;
+&lt;li&gt;虚机主机的域名解析使用cname还是ip地址？&lt;/li&gt;
+&lt;li&gt;网站分类 hugo process life travel&lt;/li&gt;
+&lt;li&gt;标题中怎么加入emoji&lt;/li&gt;
+&lt;li&gt;WORK WEB WORLD&lt;/li&gt;
+&lt;li&gt;建立镜像网站，域名迅速替换&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>安装完 Debian 10 后要做的事</title>
+      <link>http://www.964813.xyz/zh-cn/post/debian_10after/</link>
+      <pubDate>Thu, 06 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/debian_10after/</guid>
+      
+        <description>&lt;p&gt;Debian 10，代号「Buster」，包含了很多特色功能。如果你最近尝试在你的电脑上安装了 Debian 10，安装之后不知道下一步怎么做，本教程可以做为一个参考。&lt;/p&gt;
+&lt;h2 id=&#34;安装sudo&#34;&gt;安装sudo&lt;/h2&gt;
+&lt;p&gt;Debian 10 安装完成后，为了便于后续命令执行使用普通账号安装需要管理员权限才能安装的软件包，需要首先安装sudo软件包。&lt;/p&gt;
+&lt;p&gt;在root账号下，执行如下命令安装sudo。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;apt install sudo -y
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;添加你的本地用户到 sudo 组，可以使用 usermod 命令，如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;sudo usermod -aG sudo dan
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;清理不必要的软件包&#34;&gt;清理不必要的软件包&lt;/h2&gt;
+&lt;p&gt;目的：减少需要下载的内容从而缩短升级时间，降低出现依赖问题的可能性。&lt;/p&gt;
+&lt;p&gt;方法：先手动清除不必要的软件，然后参考我之前关于清理Debian/Ubuntu系统上冗余包的文章，删除掉冗余包、废弃包。简单来说就是执行下面两个命令，如果情况比较复杂（aptitude认为依赖关系复杂，无法稳妥地完全自行完成，提示用户是否要接受它计算出的一个解决方案），可以接受建议方案并再次执行直到没有包能被删除。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;apt-get install aptitude
+sudo aptitude purge &amp;#34;~o&amp;#34; -y
+#dpkg —list |grep &amp;#34;rc&amp;#34; | cut -d &amp;#34; &amp;#34; -f 3 | xargs sudo dpkg —purge
+sudo aptitude purge &amp;#34;~c&amp;#34; -y
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;升级当前系统中的软件包&#34;&gt;升级当前系统中的软件包&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;sudo apt update
+sudo apt upgrade
+apt-get dist-upgrade
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;回答每一个可能出现的问题, 完成系统升级.&lt;/p&gt;
+&lt;h2 id=&#34;检查&#34;&gt;检查&lt;/h2&gt;
+&lt;p&gt;强烈建议在升级对已经安装的包进行检查，并解决所有hold的包（卸载或上网查询具体方案）。&lt;/p&gt;
+&lt;p&gt;1.检查安装的包的一致性（正常情况下无输出）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;dpkg -C
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2.查看无法升级（on hold）的包（正常情况下无输出）&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;apt-mark showhold
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;重启&#34;&gt;重启&lt;/h2&gt;
+&lt;p&gt;通常新版本会更使用新的内核，重启是为了使用新的内核image，同时方便删除旧的版本。&lt;/p&gt;
+&lt;h2 id=&#34;清理&#34;&gt;清理&lt;/h2&gt;
+&lt;h3 id=&#34;清理作废的包&#34;&gt;清理作废的包。&lt;/h3&gt;
+&lt;p&gt;升级后，很多旧版本的包将不再需要。除了apt-get autoremove可以删除的，还有一些需要使用更底层的dpkg工具进行删除。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;sudo apt-get autoremove
+sudo aptitude purge &amp;#34;~o&amp;#34;
+#dpkg —list |grep &amp;#34;rc&amp;#34; | cut -d &amp;#34; &amp;#34; -f 3 | xargs sudo dpkg —purge
+sudo aptitude purge &amp;#34;~c&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;清理下载缓存&#34;&gt;清理下载缓存&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;sudo apt-get clean
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;使用-tuna-的软件源镜像使用-tuna-的软件源镜像&#34;&gt;使用 TUNA 的软件源镜像&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;选择你的 Debian 版本&lt;/li&gt;
+&lt;li&gt;默认注释了源码镜像以提高 apt update 速度，如有需要可自行取消注释&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;deb https://mirrors.tuna.tsinghua.edu.cn/debian/ buster main contrib non-free
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ buster main contrib non-free
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ buster-updates main contrib non-free
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ buster-updates main contrib non-free
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ buster-backports main contrib non-free
+#deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ buster-backports main contrib non-free
+deb https://mirrors.tuna.tsinghua.edu.cn/debian-security buster/updates main contrib non-free
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/debian-security buster/updates main contrib non-free
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;安装云音乐播放器&#34;&gt;安装云音乐播放器&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;wget http://d1.music.126.net/dmusic/netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb 
+
+sudo dpkg -i netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb 
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;若失败,修补依赖 sudo apt -f install,之后再安装&lt;/p&gt;
+&lt;h2 id=&#34;安装qq&#34;&gt;安装QQ&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;wget https://qd.myapp.com/myapp/qqteam/linuxQQ/linuxqq_2.0.0-b1-1024_amd64.deb
+sudo dpkg -i linuxqq_2.0.0-b1-1024_amd64.deb
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;安装vlc播放器&#34;&gt;安装VLC播放器&lt;/h2&gt;
+&lt;p&gt;VLC 是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件，以及 DVD、音频 CD、VCD 及各类流媒体协议。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;sudo apt install vlc -y
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;参考网址：&lt;a href=&#34;https://mirrors.tuna.tsinghua.edu.cn/help/debian/&#34;&gt;https://mirrors.tuna.tsinghua.edu.cn/help/debian/&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://www.964813.xyz/zh-cn/about/</link>
+      <pubDate>Tue, 18 Feb 2020 21:38:52 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/about/</guid>
+      
+        <description>&lt;p&gt;建立本博客目的是转载，推陈出新，收藏一些文章。记录问题解决问题。&lt;/p&gt;
+&lt;p&gt;转载文章只是为了自己方便记录查询，文章底部一般都会有原文链接，格式乱了的建议去原文看效果更好。&lt;/p&gt;
+&lt;p&gt;僵尸博客不定时更新。&lt;/p&gt;
+&lt;h2 id=&#34;基本情况&#34;&gt;基本情况&lt;/h2&gt;
+&lt;p&gt;Email：lmg_bit#163.com（#改成@）&lt;/p&gt;
+&lt;p&gt;Wechat：deng9k&lt;/p&gt;
+&lt;h2 id=&#34;本站架构&#34;&gt;本站架构&lt;/h2&gt;
+&lt;p&gt;选择了Hugo，一个程序，搭建简单，一切从简。模板使用jane， 地址是： &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane&#34;&gt;https://github.com/xianmin/hugo-theme-jane&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;图片 ：尽量使用webp格式进行了压缩，减少流量消耗。（WebP的核心优势就是&lt;strong&gt;图片小，质量好&lt;/strong&gt;。目前Google、Facebook、腾讯、阿里、美团的等国内外互联网公司广泛应用了webp，超过70%的浏览器已经支持webp。）&lt;/p&gt;
+&lt;h2 id=&#34;建站记录&#34;&gt;建站记录&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;20200220&lt;/strong&gt; 更换模板为jane&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;20191225&lt;/strong&gt; 申请了一个新的“GA” id，用来分析数据，（已关闭GA）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;20191217&lt;/strong&gt; 提交公安备案审核，并通过审核。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;20191212&lt;/strong&gt;  本站建立，本站域名964813.xyz通过域名备案，备案号：津ICP备19011517号-1号，采用aliyun虚拟主机，域名aliyun购买。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>http://www.964813.xyz/zh-cn/links/</link>
+      <pubDate>Sun, 23 Feb 2020 21:38:52 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/links/</guid>
+      
+        <description>&lt;p&gt;友情链接:&lt;/p&gt;
+&lt;p&gt;首页：&lt;/p&gt;
+&lt;p&gt;内页：&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>现在</title>
+      <link>http://www.964813.xyz/zh-cn/post/now/</link>
+      <pubDate>Fri, 21 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/now/</guid>
+      
+        <description>&lt;h2 id=&#34;修改jane事项&#34;&gt;修改jane事项&lt;/h2&gt;
+&lt;p&gt;有关jane主题的一些使用事项：&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.964813.xyz/post/jane-theme-preview/&#34;&gt;Jane Theme Preview&lt;/a&gt;这个文档怎么总在第一个？&lt;/li&gt;
+&lt;li&gt;SCSS文件怎么改？因为想要修改CSS样式&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;如何置顶文章？在文章头部的配置中加上一条： &lt;code&gt;weight: 1&lt;/code&gt; ，就可以置顶了。&lt;/del&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hugo-todo&#34;&gt;hugo todo&lt;/h2&gt;
+&lt;p&gt;hugo网站需要做的事情&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;slides在线的幻灯片是如何制作的？这个功能将来应该会用到&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;图片GALERY怎么样形式的添加上去&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;google、baidu 搜索不到 github page？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;hugo webhook 怎么实现 ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;hugo toc 怎么实现 ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;每篇文章的后面加入更新日期和相关文章&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;964813.XYZ在手机端和电脑端的区别 ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;HUGO md文件的创建日期和更新日期，及作者，添加到每篇文章去&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;首页上如何显示最近更新的五篇文章&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;HUGO SEO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;如何优化各文件大小？怎么看出浏览器中文件的大小？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;国内 CDN 加载静态文件(国内)（版权 隐私）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.师夷长技&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3.健康生活&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4.旅行的意义&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;todo：will&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站备份策略 个人文件备份策略&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;友情链接怎么加，是否应该加，加在哪里，主页上还是友情链接页面上&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虚机主机的域名解析使用cname还是ip地址？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站分类 hugo process life travel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;标题中怎么加入emoji&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>联络</title>
+      <link>http://www.964813.xyz/zh-cn/contact/</link>
+      <pubDate>Fri, 21 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/contact/</guid>
+      
+        <description>&lt;h1 id=&#34;contact-lmg_bit163com&#34;&gt;Contact &lt;a href=&#34;mailto:lmg_bit@163.com&#34;&gt;lmg_bit@163.com&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;​	I love hearing from people, so please email me at &lt;a href=&#34;mailto:lmg_bit@163.com&#34;&gt;lmg_bit@163.com&lt;/a&gt; and &lt;strong&gt;introduce yourself&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;​	Why? For two reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;​	I love getting to know people around the world. (Many of my best friends and even great loves are people who I met when they emailed to introduce themselves.)&lt;/li&gt;
+&lt;li&gt;​	Because I know a lot of people, I can help &lt;strong&gt;connect&lt;/strong&gt; you with someone you should meet.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;​	Yes it’s really me, and &lt;strong&gt;I reply to all&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;caveat-read-first&#34;&gt;Caveat (read first)&lt;/h2&gt;
+&lt;p&gt;​	First &lt;a href=&#34;http://www.964813.xyz/zh-cn/faq&#34;&gt;please read my “frequently asked questions” page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;​	If that page didn’t answer your question, please search my site:&lt;/p&gt;
+&lt;p&gt;​	I’m not doing any public speaking or interviews now, but might soon, so introduce yourself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sivers.org/nopr&#34;&gt; 	I don’t promote. &lt;/a&gt; I don’t invest. And &lt;a href=&#34;https://sivers.org/no2&#34;&gt; 	I’m not taking on any new projects. &lt;/a&gt; But I love to be aware of what you’re doing, even though I can’t get involved or answer questions about it.&lt;/p&gt;
+&lt;p&gt;​	So really the main reason to contact me is to &lt;strong&gt;introduce yourself&lt;/strong&gt;, which I hope you do.&lt;/p&gt;
+&lt;h2 id=&#34;-or-just-follow&#34;&gt;… or just follow&lt;/h2&gt;
+&lt;p&gt;​	You can follow me using  &lt;a href=&#34;http://www.964813.xyz/zh-cn/index.xml&#34;&gt;RSS&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;​	&lt;strong&gt;I don’t check my social media inboxes.&lt;/strong&gt; 	So please just email me instead.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>常见问题解答</title>
+      <link>http://www.964813.xyz/zh-cn/faq/</link>
+      <pubDate>Thu, 20 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/faq/</guid>
+      
+        <description>&lt;h2 id=&#34;修改jane事项&#34;&gt;修改jane事项&lt;/h2&gt;
+&lt;p&gt;有关jane主题的一些使用事项：&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.964813.xyz/post/jane-theme-preview/&#34;&gt;Jane Theme Preview&lt;/a&gt;这个文档怎么总在第一个？&lt;/li&gt;
+&lt;li&gt;SCSS文件怎么改？因为想要修改CSS样式&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;如何置顶文章？在文章头部的配置中加上一条： &lt;code&gt;weight: 1&lt;/code&gt; ，就可以置顶了。&lt;/del&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hugo-todo&#34;&gt;hugo todo&lt;/h2&gt;
+&lt;p&gt;hugo网站需要做的事情&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;slides在线的幻灯片是如何制作的？这个功能将来应该会用到&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;图片GALERY怎么样形式的添加上去&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;google、baidu 搜索不到 github page？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;hugo webhook 怎么实现 ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;hugo toc 怎么实现 ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;每篇文章的后面加入更新日期和相关文章&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;964813.XYZ在手机端和电脑端的区别 ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;HUGO md文件的创建日期和更新日期，及作者，添加到每篇文章去&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;首页上如何显示最近更新的五篇文章&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;HUGO SEO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;如何优化各文件大小？怎么看出浏览器中文件的大小？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;国内 CDN 加载静态文件(国内)（版权 隐私）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.师夷长技&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3.健康生活&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4.旅行的意义&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;todo：will&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站备份策略 个人文件备份策略&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;友情链接怎么加，是否应该加，加在哪里，主页上还是友情链接页面上&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虚机主机的域名解析使用cname还是ip地址？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站分类 hugo process life travel&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;标题中怎么加入emoji&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>已备案个人网站如何控制内容</title>
+      <link>http://www.964813.xyz/zh-cn/post/website_content/</link>
+      <pubDate>Wed, 19 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/website_content/</guid>
+      
+        <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;已备案个人网站如何控制内容&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;不控制网站内容可能会被注销备案&lt;/p&gt;
+&lt;p&gt;1.控制页面内容，不要出现违法关键词（bo ke要改成Blog），个人北岸不能做bo ke，需要把bo ke改成日记之类的词，,网站里也不能有商业词，比如zhi fu bao，比如看到tengxun云有优惠服务器想发文章分享可不可以？回答是不可以的&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>变换笑脸的杯子</title>
+      <link>http://www.964813.xyz/zh-cn/post/artl_cfc/</link>
+      <pubDate>Tue, 18 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/artl_cfc/</guid>
+      
+        <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;艺象标美术网上课程：制作能变换笑脸的杯子&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;制作者：艺术家李元、艺术家王思媛&lt;/p&gt;
+&lt;h2 id=&#34;图示&#34;&gt;图示&lt;/h2&gt;
+&lt;p&gt;作品展示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/art/changefacecup1.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/art/changefacecup2.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;摆成心形的两人与作品的展示.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/art/changefacecup3.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/art/changefacecup4.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;（图片经过WEBP有损25%压缩，索取原图请联系作者）&lt;/p&gt;
+&lt;h2 id=&#34;准备材料&#34;&gt;准备材料&lt;/h2&gt;
+&lt;p&gt;铅笔、橡皮、勾线笔、水彩笔、两个一次性纸杯、剪刀、胶水.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>使用HUGO更新网站</title>
+      <link>http://www.964813.xyz/zh-cn/post/hugo_write/</link>
+      <pubDate>Tue, 18 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/hugo_write/</guid>
+      
+        <description>&lt;p&gt;使用HUGO更新网站&lt;/p&gt;
+&lt;p&gt;我使用HUGO更新网站，流程是复杂的，就是因为不会写代码，所以很麻烦，如果有好心人介绍一些简单的方法，那会万分感谢了。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;打开GITHUB桌面版&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点开REPOSITORY的show in explorer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入content文件夹，并进入你要写文章的文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;复制一篇文章&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用Typora打开该文件，进行编辑，保存&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到网站根目录，SHIFT+右键，在此处打开powershell&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输入命令：hugo,生成网站&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开winscp，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登录虚拟主机的FTP，进入网站根目录&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;窗口左侧选择对应到刚生成网站的public文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击winscp软件的左上角的&amp;quot;同步&amp;rdquo;,注意方向目标目录选择“远程”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虚拟主机文件同步完毕，[小登纪]（http://www.964813.xyz）网站进行了更新&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到github桌面版&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击左下角的Commit to master，对编辑完的文件提交Commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击github软件的右侧中间的&amp;quot;Push origin&amp;rdquo;,推送到github网站作为备份&lt;/p&gt;
+&lt;p&gt;作为结尾，我的编辑文章的流程实在太费事了，希望好朋友们给介绍一些方便的法子，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;联系Email：lmg_bit（圈a）163.com&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[求助：为什么邮箱下划线在markdown中就识别错误呢]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>愿望清单</title>
+      <link>http://www.964813.xyz/zh-cn/post/will/</link>
+      <pubDate>Tue, 18 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/will/</guid>
+      
+        <description>&lt;p&gt;我的愿望清单：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;买个笔记本:X230 I5 ssd // matebook 14//macbook air🐕&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IPHONE7&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ipad&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;kindle&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;群晖&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BMW //audi&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;管理一个个人网站&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;要去的地方：1.国内：维也纳、敦煌、兵马俑、俪江、哈尔滨的中央大街2.国外：韩国、西班牙的加纳利群岛的丹娜丽芙岛、瑞典&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;跑一次北京国际马拉松(ok)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;带老婆去看大海&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;学会做几样拿手小菜&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;与一个北大的女生握手&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>版权声明</title>
+      <link>http://www.964813.xyz/zh-cn/post/copyright/</link>
+      <pubDate>Tue, 18 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/copyright/</guid>
+      
+        <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;cc-logohttpscreativecommonsorgimagesdeedcc_icon_white_x2png-imghttpscreativecommonsorgimagesdeedattribution_icon_white_x2png-imghttpscreativecommonsorgimagesdeednc_white_x2png-imghttpscreativecommonsorgimagesdeednd_white_x2png署名-非商业性使用-禁止演绎-40-国际-cc-by-nc-nd-40&#34;&gt;&lt;img src=&#34;https://creativecommons.org/images/deed/cc_icon_white_x2.png&#34; alt=&#34;cc logo&#34;&gt; &lt;img src=&#34;https://creativecommons.org/images/deed/attribution_icon_white_x2.png&#34; alt=&#34;img&#34;&gt; &lt;img src=&#34;https://creativecommons.org/images/deed/nc_white_x2.png&#34; alt=&#34;img&#34;&gt; &lt;img src=&#34;https://creativecommons.org/images/deed/nd_white_x2.png&#34; alt=&#34;img&#34;&gt;署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)&lt;/h2&gt;
+&lt;p&gt;这是一份普通人可以理解的&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans&#34;&gt;许可协议&lt;/a&gt;概要 (但不是替代) 。 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;免责声明&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;您可以自由地&#34;&gt;您可以自由地：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;共享&lt;/strong&gt; — 在任何媒介以任何形式复制、发行本作品&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;只要你遵守许可协议条款，许可人就无法收回你的这些权利。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;惟须遵守下列条件&#34;&gt;惟须遵守下列条件：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;署名&lt;/strong&gt; — 您必须给出&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;适当的署名&lt;/a&gt;，提供指向本许可协议的链接，同时&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;标明是否（对原始作品）作了修改&lt;/a&gt;。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;非商业性使用&lt;/strong&gt; — 您不得将本作品用于&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;商业目的&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;禁止演绎&lt;/strong&gt; — 如果您 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;再混合、转换、或者基于该作品创作&lt;/a&gt;，您不可以分发修改作品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;没有附加限制&lt;/strong&gt; — 您不得适用法律术语或者 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;技术措施&lt;/a&gt; 从而限制其他人做许可协议允许的事情。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;声明&#34;&gt;声明：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;例外或限制&lt;/a&gt;所允许。&lt;/li&gt;
+&lt;li&gt;不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#&#34;&gt;形象权、隐私权或人格权&lt;/a&gt;可能限制您如何使用作品。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>hugo网站速度优化</title>
+      <link>http://www.964813.xyz/zh-cn/post/hugo_pagespeed/</link>
+      <pubDate>Thu, 30 Jan 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/hugo_pagespeed/</guid>
+      
+        <description>&lt;p&gt;from GTmetrix&lt;/p&gt;
+&lt;h1 id=&#34;pagespeed-leverage-browser-caching&#34;&gt;PageSpeed: Leverage browser caching&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Page load times can be significantly improved by asking visitors to save and reuse the files included in your website.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduces page load times for repeat visitors&lt;/li&gt;
+&lt;li&gt;Particularly effective on websites where users regularly re-visit the same areas of the website&lt;/li&gt;
+&lt;li&gt;Benefit-cost ratio: high&lt;/li&gt;
+&lt;li&gt;Access needed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;General guidelines for setting expiries:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Truly static content (global CSS styles, logos, etc.) - &lt;strong&gt;access plus 1 year&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Everything else - &lt;strong&gt;access plus 1 week&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-is-browser-caching&#34;&gt;What is browser caching?&lt;/h2&gt;
+&lt;p&gt;Every time a browser loads a webpage it has to download all the web files to properly display the page. This includes all the HTML, CSS, JavaScript and images.&lt;/p&gt;
+&lt;p&gt;Some pages might only consist of a few files and be small in size – maybe a couple of kilobytes. For others however there may be a lot of files, and these may add up to be several megabytes large. Twitter.com for example is 3 MB+.&lt;/p&gt;
+&lt;p&gt;The issue is two fold.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;These large files take longer to load and can be especially painful if you&amp;rsquo;re on a slow internet connection (or a mobile device).&lt;/li&gt;
+&lt;li&gt;Each file makes a separate request to the server. The more requests your server gets simultaneously the more work it needs to do, only further reducing your page speed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Browser caching can help by storing some of these files locally in the user&amp;rsquo;s browser. Their first visit to your site will take the same time to load, however when that user revisits your website, refreshes the page, or even moves to a different page of your site, they already have some of the files they need locally.&lt;/p&gt;
+&lt;p&gt;This means the amount of data the user&amp;rsquo;s browser has to download is less, and fewer requests need to be made to your server. The result? Decreased page load times.&lt;/p&gt;
+&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h2&gt;
+&lt;p&gt;Browser caching works by marking certain pages, or parts of pages, as being needed to be updated at different intervals. Your logo on your website, for instance, is unlikely to change from day to day. By caching this logo image, we can tell the user&amp;rsquo;s browser to only download this image once a week. Every visit that user makes within a week would not require another download of the logo image.&lt;/p&gt;
+&lt;p&gt;By the web server telling the browser to store these files and not download them when you come back saves your users time and your web server bandwidth.&lt;/p&gt;
+&lt;h2 id=&#34;why-is-it-important&#34;&gt;Why is it important?&lt;/h2&gt;
+&lt;p&gt;The main reason why browser caching is important is because it reduces the load on your web server, which ultimately reduces the load time for your users.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-leverage-browser-caching&#34;&gt;How to leverage browser caching&lt;/h2&gt;
+&lt;p&gt;To enable browser caching you need to edit your HTTP headers to set expiry times for certain types of files.&lt;/p&gt;
+&lt;h3 id=&#34;configuring-apache-to-serve-the-appropriate-headers&#34;&gt;Configuring Apache to serve the appropriate headers&lt;/h3&gt;
+&lt;p&gt;Find your .htaccess file in the root of your domain. This file is a hidden file but should show up in FTP clients like FileZilla or CORE. You can edit the .htaccess file with notepad or any form of basic text editor.&lt;/p&gt;
+&lt;p&gt;In this file we will set our caching parameters to tell the browser what types of files to cache.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&amp;lt;IfModule mod_expires.c&amp;gt;
+  ExpiresActive On
+
+  # Images
+  ExpiresByType image/jpeg &amp;#34;access plus 1 year&amp;#34;
+  ExpiresByType image/gif &amp;#34;access plus 1 year&amp;#34;
+  ExpiresByType image/png &amp;#34;access plus 1 year&amp;#34;
+  ExpiresByType image/webp &amp;#34;access plus 1 year&amp;#34;
+  ExpiresByType image/svg+xml &amp;#34;access plus 1 year&amp;#34;
+  ExpiresByType image/x-icon &amp;#34;access plus 1 year&amp;#34;
+
+  # Video
+  ExpiresByType video/mp4 &amp;#34;access plus 1 year&amp;#34;
+  ExpiresByType video/mpeg &amp;#34;access plus 1 year&amp;#34;
+
+  # CSS, JavaScript
+  ExpiresByType text/css &amp;#34;access plus 1 month&amp;#34;
+  ExpiresByType text/javascript &amp;#34;access plus 1 month&amp;#34;
+  ExpiresByType application/javascript &amp;#34;access plus 1 month&amp;#34;
+
+  # Others
+  ExpiresByType application/pdf &amp;#34;access plus 1 month&amp;#34;
+  ExpiresByType application/x-shockwave-flash &amp;#34;access plus 1 month&amp;#34;
+&amp;lt;/IfModule&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;【做法：创建一个 .htaccess文件，把IfModule中的代码放到里面去，将 .htaccess文件通过FTP放到虚拟主机网站的根目录即可。本站优化前，Leverage browser caching为32，优化后为87。效果显著】&lt;/p&gt;
+&lt;p&gt;Depending on your website&amp;rsquo;s files you can set different expiry times. If certain types of files are updated more frequently, you would set an earlier expiry time on them (ie. css files)&lt;/p&gt;
+&lt;p&gt;When you are done save the file as is and not as a .txt file.&lt;/p&gt;
+&lt;p&gt;If you are using any form of CMS, cache extensions or plugins might be available.&lt;/p&gt;
+&lt;h2 id=&#34;recommendations&#34;&gt;Recommendations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Be aggressive with your caching for all static resources&lt;/li&gt;
+&lt;li&gt;Expiry at a minimum of one month (recommended: access plus 1 year)&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t set your caching more than a year in advance!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;be-careful&#34;&gt;Be careful&lt;/h2&gt;
+&lt;p&gt;You want to be careful when enabling browser caching as if you set the parameters too long on certain files, users might not be getting the fresh version of your website after updates.&lt;/p&gt;
+&lt;p&gt;This is particularly relevant if you are working with a designer to make changes to your website – they might have made the changes but you can&amp;rsquo;t see them yet because the elements that have been changed are cached on your browser.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>要封城了，提前买点什么</title>
+      <link>http://www.964813.xyz/zh-cn/post/closecitybuy/</link>
+      <pubDate>Thu, 23 Jan 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/closecitybuy/</guid>
+      
+        <description>&lt;h2 id=&#34;要封城了提前买点什么&#34;&gt;要封城了，提前买点什么&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;口罩&lt;/li&gt;
+&lt;li&gt;面包&lt;/li&gt;
+&lt;li&gt;方便面、挂面&lt;/li&gt;
+&lt;li&gt;纸巾&lt;/li&gt;
+&lt;li&gt;纯净水&lt;/li&gt;
+&lt;li&gt;油、盐&lt;/li&gt;
+&lt;li&gt;蔬菜、猪肉、鸡蛋及鱼类&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>F70AR</title>
+      <link>http://www.964813.xyz/zh-cn/post/f70ar/</link>
+      <pubDate>Wed, 01 Jan 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/f70ar/</guid>
+      
+        <description>&lt;h2 id=&#34;f70ar光纤放大器的调节和设定&#34;&gt;F70AR光纤放大器的调节和设定&lt;/h2&gt;
+&lt;h2 id=&#34;0x00-原理&#34;&gt;0x00 原理&lt;/h2&gt;
+&lt;p&gt;先介绍反射式光纤和对照式光纤的工件原理:&lt;/p&gt;
+&lt;p&gt;反射式光纤:内有两根管子,一根为发射管1,另一根为接受管2,当1发出的光线遇到被测物后.光线就会被反回来被2接受,在光纤放大器上形成一个信号.如H142上面的003和012&lt;/p&gt;
+&lt;p&gt;对照式光纤:同样有一根发射管和一根接受管,但管1和管2的位置是相对的.管1发出的光线遇到被测物后,光线就被挡住无法被管2接受,此时就会在光纤放大器上形成一个信号.如食人鱼上就会用到;&lt;/p&gt;
+&lt;h2 id=&#34;1x00-调节&#34;&gt;1x00 调节&lt;/h2&gt;
+&lt;p&gt;F70AR属于反射式光纤,调节方法如下:&lt;/p&gt;
+&lt;h3 id=&#34;1x10-选择工作模式&#34;&gt;1x10 选择工作模式&lt;/h3&gt;
+&lt;p&gt;F70AR有两种显示模式:L和D两种模式.&lt;/p&gt;
+&lt;p&gt;L模式:入光ON.一般使用反射式光纤时选择L模式.H160上使用此模式.&lt;/p&gt;
+&lt;p&gt;D模式:遮光ON.一般对照式光纤时选择D模式.&lt;/p&gt;
+&lt;p&gt;F:为检知延迟时间.表示光纤放大器延迟时间40ms再检测被测物.一般不必设定.&lt;/p&gt;
+&lt;p&gt;模式选择调整方式:按住RUN键约3秒钟,进入模式选择.按RUN键可对L\D\F进行选择.按切换投光频率1及投光频率2,设定不同的投光周期可防止F70AR之间的相互干扰.&lt;/p&gt;
+&lt;h3 id=&#34;1x20-设定f70ar光纤放大器的灵敏度&#34;&gt;1x20 设定F70AR光纤放大器的灵敏度&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;手动设定法&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;开关由RUN位置推到SET位置,进入设定状态;&lt;/li&gt;
+&lt;li&gt;被测物位于欲设定位置时,按一下SET键;&lt;/li&gt;
+&lt;li&gt;被测物移开后,按一下SET键完成设定:&lt;/li&gt;
+&lt;li&gt;最后将开关由SET位置推回RUN位置完成锁定,&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;自动设定法:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;开关由RUN位置推到SET位置,进入设定状态;&lt;/li&gt;
+&lt;li&gt;按住SET键约3秒钟后进入自动判断模式.此时灯会从快速闪烁变成1秒钟一次;&lt;/li&gt;
+&lt;li&gt;继续按住SET键不放,让被测物在光纤前经过,重复3~8次;&lt;/li&gt;
+&lt;li&gt;被测物离开光纤检测区域后,放开SET键,灵敏度设定OK;&lt;/li&gt;
+&lt;li&gt;最后将开关由SET位置推回RUN.进入锁定状态.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;1x30-微调&#34;&gt;1x30 微调&lt;/h3&gt;
+&lt;p&gt;最后我们还可以根据实际情况对F70AR进行微调.&lt;/p&gt;
+&lt;p&gt;微调步骤如下:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将开关由RUN位置推到SET位置后马上再由SET位置推到RUN位置,进入手动微调状态;&lt;/li&gt;
+&lt;li&gt;此时F70AR光纤上的S会不停的闪烁;&lt;/li&gt;
+&lt;li&gt;此时就可以通过RUN键和SET键来加减设定值;&lt;/li&gt;
+&lt;li&gt;停止操作10秒后,自动完成锁定状态.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>THN面试</title>
+      <link>http://www.964813.xyz/zh-cn/post/interview_thn/</link>
+      <pubDate>Mon, 23 Dec 2019 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/interview_thn/</guid>
+      
+        <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;面试概述&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;面试人员：zhou总经理、cui厂长&lt;/p&gt;
+&lt;p&gt;面试问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;坚持原则吗？需要必须坚持原则，出现问题要停线；&lt;/li&gt;
+&lt;li&gt;每一个工厂，都做了什么，有哪些成果，学到了什么；&lt;/li&gt;
+&lt;li&gt;头脑怎么样？（详细说头脑清不清楚，做事条理性）；&lt;/li&gt;
+&lt;li&gt;薪资，SIX，以后想实行绩效类。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;​       cui厂长带领参观工厂，行业先进的进口设备，（italy，   France，japan）&lt;/p&gt;
+&lt;p&gt;最后人事小li说背景调查，让我提供前两个公司电话和大学教务处电话。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;2019.12.24 下午，接到OFFER。元旦上班。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>个人网站注意事项</title>
+      <link>http://www.964813.xyz/zh-cn/post/website_note/</link>
+      <pubDate>Thu, 12 Dec 2019 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/website_note/</guid>
+      
+        <description>&lt;p&gt;注意NOTE：&lt;/p&gt;
+&lt;p&gt;1.个人备案网站：无搜索，无下载，无订阅，无评论，无登录、无注册，不能有互动、交流、留言板功能&lt;/p&gt;
+&lt;p&gt;2.网站内容：需符合个人性质，不要有单位、团体内容，不能涉及论坛、经营性等前置审批内容，不能有新闻资讯，不能有联盟广告。&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;http://www.964813.xyz/zh-cn/post/website_content/&#34;&gt;控制页面内容，不要出现违法关键词&lt;/a&gt;；&lt;/p&gt;
+&lt;p&gt;4.已备案成功网站下方需悬挂备案号并链接到工信部网站 &lt;a href=&#34;http://www.beian.miit.gov.cn/&#34;&gt;http://www.beian.miit.gov.cn&lt;/a&gt;及版权所有&lt;/p&gt;
+&lt;p&gt;5.个人备案网站名必须包含备案时填写的网站名，必须完整，建议后跟网站备案名&lt;/p&gt;
+&lt;p&gt;6.主体下所有备案域名必须解析到主体所在的服务商的服务器IP&lt;/p&gt;
+&lt;p&gt;7.域名持有人与备案主体人信息一致&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>菜谱</title>
+      <link>http://www.964813.xyz/zh-cn/post/recipe/</link>
+      <pubDate>Thu, 12 Dec 2019 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/recipe/</guid>
+      
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;这个页面纪录一些我做菜的菜谱。&lt;/p&gt;
+&lt;h1 id=&#34;s&#34;&gt;S&lt;/h1&gt;
+&lt;h2 id=&#34;蒜蓉粉丝扇贝httpwwwxiachufangcomrecipe104207001&#34;&gt;&lt;a href=&#34;http://www.xiachufang.com/recipe/104207001/&#34;&gt;蒜蓉粉丝扇贝&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/food01.webp&#34; alt=&#34;alt food01.webp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;用料&lt;br&gt;
+扇贝肉、龙口粉丝
+姜、蒜、小米椒、芹菜杆
+油、蚝油、生抽、料酒&lt;/p&gt;
+&lt;p&gt;做法&lt;br&gt;
+1.扇贝肉（如果扇贝肉是冰冻的，可在清水里加少许盐和白醋，帮助解冻同时可以去腥味） 
+2.清洗: 画圈的地方分别是扇贝肉的肠、腮、胃，将它们去除，清洗干净即可。
+3.粉丝用温水泡15分钟后，用剪刀剪成段，加入1勺蚝油，拌匀（为粉丝着底色、打底味）。
+4.将蚝油粉丝段放盘打底
+5.放上洗净的扇贝肉。
+6.开始炒料:铁锅温热～加适量油～油温热～加蒜末、姜末、小米椒末～加1勺料酒。～加2勺生抽。～加1勺蚝油～小火翻炒出香味。
+7.用小勺将炒好的姜蒜末均匀覆盖在扇贝肉上。
+8.隔水、大火上汽蒸5分钟。
+9.出锅:将芹菜末撒在盘中，用热油淋在芹菜末上，增香增色。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>gallery1图片测试</title>
+      <link>http://www.964813.xyz/zh-cn/post/gallery1/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/gallery1/</guid>
+      
+        <description>&lt;p&gt;主题预览,内容有待填充。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;http://www.964813.xyz/css/hugo-easy-gallery.css&#34; /&gt;
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://www.964813.xyz//images/201807//0fd56fa2.jpg&#39;);&#34; &gt;
+              &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.964813.xyz//images/201807//0fd56fa2.jpg&#34; alt=&#34;0fd56fa2&#34; /&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;0fd56fa2&lt;/p&gt;
+            &lt;/figcaption&gt;
+            &lt;a href=&#34;http://www.964813.xyz//images/201807//0fd56fa2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;box&#34;&gt;
+          &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+            &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://www.964813.xyz//images/201807//mmexport1531741953691.jpg&#39;);&#34; &gt;
+              &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://www.964813.xyz//images/201807//mmexport1531741953691.jpg&#34; alt=&#34;Mmexport1531741953691&#34; /&gt;
+            &lt;/div&gt;
+            &lt;figcaption&gt;
+              &lt;p&gt;Mmexport1531741953691&lt;/p&gt;
+            &lt;/figcaption&gt;
+            &lt;a href=&#34;http://www.964813.xyz//images/201807//mmexport1531741953691.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+          &lt;/figure&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Jane 主题预览</title>
+      <link>http://www.964813.xyz/zh-cn/post/jane-theme-preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/jane-theme-preview/</guid>
+      
+        <description>&lt;p&gt;主题预览,内容有待填充。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

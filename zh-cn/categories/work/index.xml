@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on 小登笔记</title>
+    <link>http://www.964813.xyz/zh-cn/categories/work/</link>
+    <description>Recent content in Work on 小登笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 13:16:48 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.964813.xyz/zh-cn/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>F70AR</title>
+      <link>http://www.964813.xyz/zh-cn/post/f70ar/</link>
+      <pubDate>Wed, 01 Jan 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/f70ar/</guid>
+      <description>F70AR光纤放大器的调节和设定 0x00 原理 先介绍反射式光纤和对照式光纤的工件原理: 反射式光纤:内有两根管子,一根为发射管1,另一根为接受管2,当</description>
+    </item>
+    
+    <item>
+      <title>THN面试</title>
+      <link>http://www.964813.xyz/zh-cn/post/interview_thn/</link>
+      <pubDate>Mon, 23 Dec 2019 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/interview_thn/</guid>
+      <description>面试概述： 面试人员：zhou总经理、cui厂长 面试问题： 坚持原则吗？需要必须坚持原则，出现问题要停线； 每一个工厂，都做了什么，有哪些成果，学</description>
+    </item>
+    
+  </channel>
+</rss>

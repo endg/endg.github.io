@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://www.964813.xyz/sitemap.xml

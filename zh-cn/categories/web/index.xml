@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on 小登笔记</title>
+    <link>http://www.964813.xyz/zh-cn/categories/web/</link>
+    <description>Recent content in Web on 小登笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 20 Feb 2020 13:16:48 -0800</lastBuildDate>
+    
+	<atom:link href="http://www.964813.xyz/zh-cn/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于jane主题</title>
+      <link>http://www.964813.xyz/zh-cn/post/about_jane/</link>
+      <pubDate>Wed, 19 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/about_jane/</guid>
+      <description>修改jane事项 有关jane主题的一些使用事项： 1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传</description>
+    </item>
+    
+    <item>
+      <title>安装完 Debian 10 后要做的事</title>
+      <link>http://www.964813.xyz/zh-cn/post/debian_10after/</link>
+      <pubDate>Thu, 06 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/debian_10after/</guid>
+      <description>Debian 10，代号「Buster」，包含了很多特色功能。如果你最近尝试在你的电脑上安装了 Debian 10，安装之后不知道下一步怎么做，本教程可以做为一个参考</description>
+    </item>
+    
+    <item>
+      <title>常见问题解答</title>
+      <link>http://www.964813.xyz/zh-cn/faq/</link>
+      <pubDate>Thu, 20 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/faq/</guid>
+      <description>修改jane事项 有关jane主题的一些使用事项： 1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传</description>
+    </item>
+    
+    <item>
+      <title>已备案个人网站如何控制内容</title>
+      <link>http://www.964813.xyz/zh-cn/post/website_content/</link>
+      <pubDate>Wed, 19 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/website_content/</guid>
+      <description>已备案个人网站如何控制内容： 不控制网站内容可能会被注销备案 1.控制页面内容，不要出现违法关键词（bo ke要改成Blog），个人北岸不能做bo</description>
+    </item>
+    
+    <item>
+      <title>使用HUGO更新网站</title>
+      <link>http://www.964813.xyz/zh-cn/post/hugo_write/</link>
+      <pubDate>Tue, 18 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/hugo_write/</guid>
+      <description>使用HUGO更新网站 我使用HUGO更新网站，流程是复杂的，就是因为不会写代码，所以很麻烦，如果有好心人介绍一些简单的方法，那会万分感谢了。 打</description>
+    </item>
+    
+    <item>
+      <title>版权声明</title>
+      <link>http://www.964813.xyz/zh-cn/post/copyright/</link>
+      <pubDate>Tue, 18 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/copyright/</guid>
+      <description>署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0) 这是一份普通人可以理解的许可协议概要 (但不是替代) 。 免责声明. 您可以自由地： 共享 — 在任何媒介以任何形</description>
+    </item>
+    
+    <item>
+      <title>hugo网站速度优化</title>
+      <link>http://www.964813.xyz/zh-cn/post/hugo_pagespeed/</link>
+      <pubDate>Thu, 30 Jan 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/hugo_pagespeed/</guid>
+      <description>from GTmetrix PageSpeed: Leverage browser caching Overview Page load times can be significantly improved by asking visitors to save and reuse the files included in your website. Reduces page load times for repeat visitors Particularly effective on websites where users regularly re-visit the same areas of the website Benefit-cost ratio: high Access needed General guidelines for setting expiries: Truly static content (global CSS styles, logos, etc.) - access plus 1</description>
+    </item>
+    
+    <item>
+      <title>个人网站注意事项</title>
+      <link>http://www.964813.xyz/zh-cn/post/website_note/</link>
+      <pubDate>Thu, 12 Dec 2019 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/website_note/</guid>
+      <description>注意NOTE： 1.个人备案网站：无搜索，无下载，无订阅，无评论，无登录、无注册，不能有互动、交流、留言板功能 2.网站内容：需符合个人性质，不</description>
+    </item>
+    
+    <item>
+      <title>gallery1图片测试</title>
+      <link>http://www.964813.xyz/zh-cn/post/gallery1/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/gallery1/</guid>
+      <description>主题预览,内容有待填充。 1 0fd56fa2 Mmexport1531741953691</description>
+    </item>
+    
+    <item>
+      <title>Jane 主题预览</title>
+      <link>http://www.964813.xyz/zh-cn/post/jane-theme-preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/zh-cn/post/jane-theme-preview/</guid>
+      <description>主题预览,内容有待填充。</description>
+    </item>
+    
+  </channel>
+</rss>
