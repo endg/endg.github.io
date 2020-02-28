@@ -5,11 +5,20 @@
     <link>http://www.964813.xyz/author/dan/</link>
     <description>Recent content in dan on DEN&#39;S NOTE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 13:16:48 -0800</lastBuildDate>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 27 Feb 2020 13:16:48 -0800</lastBuildDate>
     
 	<atom:link href="http://www.964813.xyz/author/dan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>links ?from=</title>
+      <link>http://www.964813.xyz/post/linksfrom/</link>
+      <pubDate>Thu, 27 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/post/linksfrom/</guid>
+      <description>links ?from=</description>
+    </item>
     
     <item>
       <title>Contact</title>
@@ -85,6 +94,15 @@ Forget passion and purpose ​	Forget “follow your passion” or “find your 
 0fd56fa2
 Mmexport1531741953691
 </description>
+    </item>
+    
+    <item>
+      <title>gallery3</title>
+      <link>http://www.964813.xyz/post/gallery3/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/post/gallery3/</guid>
+      <description>201807</description>
     </item>
     
   </channel>

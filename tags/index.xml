@@ -5,11 +5,20 @@
     <link>http://www.964813.xyz/tags/</link>
     <description>Recent content in Tags on DEN&#39;S NOTE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 13:16:48 -0800</lastBuildDate>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 27 Feb 2020 13:16:48 -0800</lastBuildDate>
     
 	<atom:link href="http://www.964813.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugo</title>
+      <link>http://www.964813.xyz/tags/hugo/</link>
+      <pubDate>Thu, 27 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/tags/hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>We</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 21 Feb 2020 13:16:48 -0800</pubDate>
       
       <guid>http://www.964813.xyz/tags/we/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>http://www.964813.xyz/tags/hugo/</link>
-      <pubDate>Thu, 20 Feb 2020 13:16:48 -0800</pubDate>
-      
-      <guid>http://www.964813.xyz/tags/hugo/</guid>
       <description></description>
     </item>
     

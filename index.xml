@@ -5,8 +5,8 @@
     <link>http://www.964813.xyz/</link>
     <description>Recent content on DEN&#39;S NOTE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS订阅&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 23 Feb 2020 21:38:52 +0800</lastBuildDate>
+    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 27 Feb 2020 13:16:48 -0800</lastBuildDate>
     
         <atom:link href="http://www.964813.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -151,14 +151,30 @@
     </item>
     
     <item>
-      <title>links</title>
-      <link>http://www.964813.xyz/links/</link>
-      <pubDate>Sun, 23 Feb 2020 21:38:52 +0800</pubDate>
+      <title>Donate</title>
+      <link>http://www.964813.xyz/donate/</link>
+      <pubDate>Thu, 27 Feb 2020 21:38:52 +0800</pubDate>
       
-      <guid>http://www.964813.xyz/links/</guid>
+      <guid>http://www.964813.xyz/donate/</guid>
       
-        <description>&lt;h1 id=&#34;links&#34;&gt;LINKS:&lt;/h1&gt;
-&lt;p&gt;​	YOU QING LIAN JIE&lt;/p&gt;
+        <description>&lt;p&gt;Rewards and donations are just a form, and I would be happy to receive any meaningful information, email, or feedback. You can reward or donate through the following channels.&lt;/p&gt;
+&lt;h2 id=&#34;scan-code&#34;&gt;Scan code&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/alipay-qr-code.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.964813.xyz/images/wechat-qr-code.webp&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;thank-you-to-the-following-friends-be-xin&#34;&gt;Thank you to the following friends (Be Xin):&lt;/h2&gt;
+&lt;p&gt;丽影 50.00&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>links ?from=</title>
+      <link>http://www.964813.xyz/post/linksfrom/</link>
+      <pubDate>Thu, 27 Feb 2020 13:16:48 -0800</pubDate>
+      
+      <guid>http://www.964813.xyz/post/linksfrom/</guid>
+      
+        <description>&lt;h1 id=&#34;links-from&#34;&gt;links ?from=&lt;/h1&gt;
 </description>
       
     </item>
@@ -424,8 +440,7 @@
       
       <guid>http://www.964813.xyz/post/copyright/</guid>
       
-        <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;cc-logohttpscreativecommonsorgimagesdeedcc_icon_white_x2png-imghttpscreativecommonsorgimagesdeedattribution_icon_white_x2png-imghttpscreativecommonsorgimagesdeednc_white_x2png-imghttpscreativecommonsorgimagesdeednd_white_x2pngattribution-noncommercial-noderivatives-40-international-cc-by-nc-nd-40&#34;&gt;&lt;img src=&#34;https://creativecommons.org/images/deed/cc_icon_white_x2.png&#34; alt=&#34;cc logo&#34;&gt; &lt;img src=&#34;https://creativecommons.org/images/deed/attribution_icon_white_x2.png&#34; alt=&#34;img&#34;&gt; &lt;img src=&#34;https://creativecommons.org/images/deed/nc_white_x2.png&#34; alt=&#34;img&#34;&gt; &lt;img src=&#34;https://creativecommons.org/images/deed/nd_white_x2.png&#34; alt=&#34;img&#34;&gt;Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)&lt;/h2&gt;
+        <description>&lt;h2 id=&#34;attribution-noncommercial-noderivatives-40-international-cc-by-nc-nd-40&#34;&gt;Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)&lt;/h2&gt;
 &lt;p&gt;This is a human-readable summary of (and not a substitute for) the &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode&#34;&gt;license&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/?__cf_chl_captcha_tk__=fb1782c81cf06e959794de448acf0ef766fbc2bb-1582376961-0-AbQfe2sPSD2xA6sJzD-JSmLY2EqTInBqZ0xPyK9WtHUzdpv3VmfXYv58iMg9gPRevYDEd8kpI-40XUgeYRzcKSXTR6Jh587vX8FmhTU3P08ZiDSPQQGtl4B_i0m4ExuSIcj3nMmFFITZ5VvsesKkp9phkSEvLJVui_HBHW1Et7TGDjb3x8-vWb4gIJ4HmBkvslQoiQsNMc9wf3TywzXbN6v5GdcNGViBdgPStf3ozjkxdvC_vnh7sCoUxJmWc3NpVHcE1I7pJ5Mu_8jNstDx9YrLgp1sZAxFzp6OKocK8FN6cgpSoiEo0fd6YG45Fkx79qKNeiZlRPk1cJRxRm5o7j9AHBvZkoSv9gUFFDgBl1Dsb0ExLpo4LL6lej_rsux6oVQsdrQgyCxlUF91vqRBqJE#&#34;&gt;Disclaimer&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;you-are-free-to&#34;&gt;You are free to:&lt;/h3&gt;
 &lt;ul&gt;
@@ -734,6 +749,24 @@ $$&lt;/p&gt;</description>
         &lt;/div&gt;
 &lt;/div&gt;
 
+</description>
+      
+    </item>
+    
+    <item>
+      <title>gallery3</title>
+      <link>http://www.964813.xyz/post/gallery3/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>http://www.964813.xyz/post/gallery3/</guid>
+      
+        <description>&lt;p&gt;201807&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
       
     </item>
