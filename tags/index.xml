@@ -1,40 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on DEN&#39;S NOTE</title>
-    <link>http://www.964813.xyz/tags/</link>
-    <description>Recent content in Tags on DEN&#39;S NOTE</description>
+    <title>Tags on Accessible Minimalism</title>
+    <link>https://www.dneg.org/tags/</link>
+    <description>Recent content in Tags on Accessible Minimalism</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> 小登纪  | &lt;a href=http://www.964813.xyz/sitemap.xml&gt;网站地图&lt;/a&gt; | &lt;a href=mailto:lmg_bit@163.com&gt;给我邮件&lt;/a&gt; | &lt;a href=http://www.964813.xyz/index.xml&gt;RSS&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 27 Feb 2020 13:16:48 -0800</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.964813.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.dneg.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hugo</title>
-      <link>http://www.964813.xyz/tags/hugo/</link>
-      <pubDate>Thu, 27 Feb 2020 13:16:48 -0800</pubDate>
+      <title>css</title>
+      <link>https://www.dneg.org/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.964813.xyz/tags/hugo/</guid>
+      <guid>https://www.dneg.org/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>We</title>
-      <link>http://www.964813.xyz/tags/we/</link>
-      <pubDate>Fri, 21 Feb 2020 13:16:48 -0800</pubDate>
+      <title>html</title>
+      <link>https://www.dneg.org/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.964813.xyz/tags/we/</guid>
+      <guid>https://www.dneg.org/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Will</title>
-      <link>http://www.964813.xyz/tags/will/</link>
-      <pubDate>Tue, 18 Feb 2020 16:01:23 +0800</pubDate>
+      <title>markdown</title>
+      <link>https://www.dneg.org/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.964813.xyz/tags/will/</guid>
+      <guid>https://www.dneg.org/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://www.dneg.org/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dneg.org/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://www.dneg.org/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dneg.org/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://www.dneg.org/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dneg.org/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://www.dneg.org/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dneg.org/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://www.dneg.org/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dneg.org/tags/index/</guid>
       <description></description>
     </item>
     
